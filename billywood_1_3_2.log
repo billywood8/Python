@@ -1,0 +1,104 @@
+# IPython log file
+
+import matplotlib.pyplot as plt
+a = randn (100000)
+plt.hist(a)
+#[Out]# (array([    38.,    412.,   3509.,  14370.,  29812.,  30655.,  16311.,
+#[Out]#          4274.,    575.,     44.]), array([-4.31758499, -3.46489006, -2.61219513, -1.7595002 , -0.90680527,
+#[Out]#        -0.05411034,  0.79858459,  1.65127952,  2.50397444,  3.35666937,
+#[Out]#         4.2093643 ]), <a list of 10 Patch objects>)
+plt.show()
+%cd "C:\Users\g.wood\Documents\Python"
+# Thu, 20 Oct 2016 12:54:22
+# Billy Wood 10-20-2016 1.3.2
+
+# Thu, 20 Oct 2016 12:56:58
+5+3
+#[Out]# 8
+# Thu, 20 Oct 2016 13:00:01
+7/2
+#[Out]# 3
+# Thu, 20 Oct 2016 13:00:45
+7/2.
+#[Out]# 3.5
+# Thu, 20 Oct 2016 13:01:40
+#7b.(Summarize) int/int returns ... but int/float ...
+
+# Thu, 20 Oct 2016 13:02:09
+a = 2
+# Thu, 20 Oct 2016 13:08:18
+#7b. Whenever you dont have a dot in the equation it cant submit it as a decimal
+
+# Thu, 20 Oct 2016 13:08:24
+23 ** 43
+#[Out]# 35834136918934220777541995677272642015423987712183913488967L
+# Thu, 20 Oct 2016 13:09:51
+#9. 35834136918934220777541995677272642015423987712183913488967L
+
+# Thu, 20 Oct 2016 13:15:07
+%cd "/\\bssd-stu-fs02\Canopy\App\appdata"# Thu, 20 Oct 2016 13:18:26
+def add_tip(total, tip_percent): 
+    '''This is a multi-line comment  
+       Return the total amount including tip
+    '''
+    tip = tip_percent*total
+    return total + tip
+# Thu, 20 Oct 2016 13:18:35
+%logstop
+%cd "C:\Users\g.wood\Documents\Python"
+def add_tip(total, tip_percent): 
+    '''This is a multi-line comment  
+       Return the total amount including tip
+    '''
+    tip = tip_percent*total
+    return total + tip
+#logstart
+# Mon, 24 Oct 2016 12:49:37
+a = add_tip(20, 0.15)
+# Mon, 24 Oct 2016 12:51:56
+add_tip(20, 0.15)
+#[Out]# 23.0
+# Mon, 24 Oct 2016 12:52:23
+add_tip(30, 0.15)
+#[Out]# 34.5
+# Mon, 24 Oct 2016 12:53:41
+#17. Assignment
+add_tip(30)
+# Mon, 24 Oct 2016 13:00:14
+# in order to have a solution you need two numbers in the parenthesis instead of just one
+
+# Mon, 24 Oct 2016 13:00:24
+#17a. Assignment
+
+# Mon, 24 Oct 2016 13:18:42
+hyp(3, 4)  
+# Mon, 24 Oct 2016 13:19:00
+%logstop
+%cd "C:\Users\g.wood\Documents\Python"
+%logstart-ortbillywood_1_3_2.log append
+# Tue, 25 Oct 2016 12:57:40
+%run C:/Users/g.wood/Documents/Python/billywood_1_3_2.py# Tue, 25 Oct 2016 12:58:29
+hyp (3,4)
+#[Out]# 5.0
+# Tue, 25 Oct 2016 13:06:42
+#17a. assignment ^
+
+# Tue, 25 Oct 2016 13:06:57
+#17b. assignment
+
+# Tue, 25 Oct 2016 13:07:33
+mean(3, 4, 7)
+# Tue, 25 Oct 2016 13:08:33
+mean(3, 4, 7)
+# Tue, 25 Oct 2016 13:08:39
+%run C:/Users/g.wood/Documents/Python/billywood_1_3_2.py# Tue, 25 Oct 2016 13:08:49
+mean(3, 4, 7)
+#[Out]# 4.666666666666667
+# Tue, 25 Oct 2016 13:17:25
+perimeter(3, 4)
+# Tue, 25 Oct 2016 13:17:42
+%run C:/Users/g.wood/Documents/Python/billywood_1_3_2.py# Tue, 25 Oct 2016 13:17:50
+perimeter(3, 4)
+#[Out]# 14
+# Tue, 25 Oct 2016 13:18:05
+%logstop

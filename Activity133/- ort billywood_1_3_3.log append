@@ -1,0 +1,30 @@
+# IPython log file
+
+get_ipython().magic(u'cd "C:\\Users\\g.wood\\Documents\\Python"')
+get_ipython().magic(u'logstart - ort billywood_1_3_2.log append')
+""" Conclusion question:
+    1. 
+    2. In this python session, you can test the code. Where in the code editor you can make a file of code for the python to test
+    3. An advantage would be that the code would be simplified and there would be less coding and less work to do."""
+    
+#Conclusion1. int, float, and tip
+get_ipython().magic(u'logstop')
+get_ipython().magic(u'cd "C:\\Users\\g.wood\\Documents\\Activity133.py"')
+get_ipython().magic(u'cd "/\\\\bssd-stu-fs02\\Canopy\\App\\appdata"')
+get_ipython().magic(u'cd "C:\\Users\\g.wood\\Documents\\Python\\Activity133"')
+get_ipython().magic(u'logstart - ort billywood_1_3_3.log append')
+# Billy Wood 1.3.3 IPython log
+
+a = 3 # Boolean expression, also called a conditional
+a == 3 # Boolean expression, also called a conditional
+a+1 >= 2 and a**2 != 5 # compound conditional
+# 3a. Prediction: outcome would be True
+
+a**2 >= 9 and not a>3
+# 3b. Prediction: True
+
+a+2 == 5 or a != 3
+x, y = (65, 40)
+x
+(x>50 and x<80) and (y>=30 and y<=45)
+get_ipython().magic(u'logstop')

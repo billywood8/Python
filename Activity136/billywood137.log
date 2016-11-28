@@ -1,0 +1,35 @@
+get_ipython().magic(u'cd "/\\\\bssd-stu-fs02\\Canopy\\App\\appdata"')
+get_ipython().magic(u'cd "/\\\\bssd-stu-fs02\\Canopy\\App\\appdata"')
+get_ipython().magic(u'cd "/\\\\bssd-stu-fs02\\Canopy\\App\\appdata"')
+get_ipython().magic(u'logstart -ort billywood137.log append')
+get_ipython().magic(u'cd "C:\\Users\\g.wood\\Documents\\Python\\Activity137"')
+get_ipython().magic(u'logstart -ort billywood137.log append')
+get_ipython().magic(u'logstop')
+get_ipython().magic(u'logstart -ort billywood137.log append')
+numbers = [1, 2, 3, 4]
+# Billy Wood 1.3.7 IPython log 
+numbers = [1, 2, 3, 4]
+for item in numbers:
+    print(item**2)
+    
+help(range)
+range(4)
+range(20,12,-3)
+range(5,19,2)
+get_ipython().magic(u'cd "C:\\Users\\g.wood\\Documents\\Python\\Activity136"')
+get_ipython().magic(u'cd "C:\\Users\\g.wood\\Documents\\Python\\Activity137"')
+get_ipython().magic(u'cd "C:\\Users\\g.wood\\Documents\\Python\\Activity136"')
+get_ipython().magic(u'cd "C:\\Users\\g.wood\\Documents\\Python\\Activity137"')
+get_ipython().magic(u'logstop')
+get_ipython().magic(u'cd "C:\\Users\\g.wood\\Documents\\Python\\Activity136"')
+#Conclusion
+#1. They are different in that the outcome looks different than each other because of the brackets and ()'s.
+#2. Use a tuple whenever you're going to have a list that you won't change. You should use a list when you will be addding, removing, or in genral changing what you have down. 
+get_ipython().magic(u'logstop')
+get_ipython().magic(u'logstart')
+get_ipython().magic(u'logstart -ort billywood136.log append')
+get_ipython().magic(u'logstart -ort billywood136.log append')
+get_ipython().magic(u'cd "C:\\Users\\g.wood\\Documents\\Python\\Activity137"')
+get_ipython().magic(u'logstart -ort billywood137.log append')
+get_ipython().magic(u'logstart -ort billywood136.log append')
+get_ipython().magic(u'logstop')

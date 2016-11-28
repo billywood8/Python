@@ -1,0 +1,105 @@
+%cd "C:\Users\g.wood\Documents\Python"
+%cd "/\\bssd-stu-fs02\Canopy\App\appdata"
+# Thu, 10 Nov 2016 12:39:03
+%cd "/\\bssd-stu-fs02\Canopy\App\appdata"# Thu, 10 Nov 2016 12:39:07
+%cd "/\\bssd-stu-fs02\Canopy\App\appdata"# Thu, 10 Nov 2016 12:39:33
+%cd "C:\Users\g.wood\Documents\Python\Activity135"# Thu, 10 Nov 2016 12:40:18
+# Billy Wood 1.3.5 IPython log
+
+# Thu, 10 Nov 2016 12:41:05
+from_future_ import print function
+# Thu, 10 Nov 2016 12:41:36
+from __future__ import print_function
+# Thu, 10 Nov 2016 12:42:29
+if raw_input('One character: ') == '!':
+    print('Wow', end='!')
+    
+# Thu, 10 Nov 2016 12:43:12
+slogan = 'Blue Springs south is the best'
+# Thu, 10 Nov 2016 12:43:19
+type(slogan)
+#[Out]# str
+# Thu, 10 Nov 2016 12:43:22
+slogan
+#[Out]# 'Blue Springs south is the best'
+# Thu, 10 Nov 2016 12:43:57
+type('tr' + "y this")
+#[Out]# str
+# Thu, 10 Nov 2016 12:44:09
+type('tr' + 5)
+# Thu, 10 Nov 2016 12:45:55
+#7. You can add a string with another string but not a string with a integer. Therefore we got an error when we tried to add an integer
+
+# Thu, 10 Nov 2016 12:46:59
+slogan[0]
+#[Out]# 'B'
+# Thu, 10 Nov 2016 12:47:06
+slogan[2]
+#[Out]# 'u'
+# Thu, 10 Nov 2016 12:47:20
+slogan[4]
+#[Out]# ' '
+# Thu, 10 Nov 2016 12:47:32
+slogan[30]
+# Thu, 10 Nov 2016 12:47:46
+slogan[-2]
+#[Out]# 's'
+# Thu, 10 Nov 2016 12:50:28
+#8. Whatever number is in the brackets shows the letter it corresponds with. If negative i goes backwards from the end. 
+#8. Also the error for 30 happened because it only goes up to 29.
+
+# Thu, 10 Nov 2016 12:51:13
+slogan[0:5]
+#[Out]# 'Blue '
+# Thu, 10 Nov 2016 12:51:29
+slogan[5:21]
+#[Out]# 'Springs south is'
+# Thu, 10 Nov 2016 12:51:45
+slogan[:5]
+#[Out]# 'Blue '
+# Thu, 10 Nov 2016 12:51:52
+slogan[7:]
+#[Out]# 'rings south is the best'
+# Thu, 10 Nov 2016 12:52:20
+#9. Slicing 
+
+# Thu, 10 Nov 2016 12:53:10
+slogan[26:30]
+#[Out]# 'best'
+# Thu, 10 Nov 2016 12:54:22
+slogan[13:18]
+#[Out]# 'south'
+# Thu, 10 Nov 2016 12:54:37
+slogan[:22]
+#[Out]# 'Blue Springs south is '
+# Thu, 10 Nov 2016 12:55:02
+slogan[:22] + 'awesome!'
+#[Out]# 'Blue Springs south is awesome!'
+# Thu, 10 Nov 2016 12:55:29
+len(slogan)
+#[Out]# 30
+# Thu, 10 Nov 2016 12:55:37
+slogan[29]
+#[Out]# 't'
+# Thu, 10 Nov 2016 12:56:00
+activity = 'theater'
+# Thu, 10 Nov 2016 12:56:12
+len(activity)
+#[Out]# 7
+# Thu, 10 Nov 2016 12:57:51
+#11a. It gives you the amount of characters in theater, which would be 7. 
+
+# Thu, 10 Nov 2016 12:58:23
+activity[1 : len(activity)-1]
+#[Out]# 'heate'
+# Thu, 10 Nov 2016 13:00:19
+#11b. It starting after the first letter and cuts of the last letter because of the -1 at the end. 
+
+# Thu, 10 Nov 2016 13:00:41
+'test goo' in 'Greatest good for the greatest number!'
+#[Out]# True
+# Thu, 10 Nov 2016 13:02:15
+#12. It's looking for the letters goo in the next line also. If they are in their then it says true. 
+
+# Thu, 10 Nov 2016 13:14:26
+%logstop

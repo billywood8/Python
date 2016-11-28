@@ -1,0 +1,7 @@
+# IPython log file
+
+get_ipython().magic(u'cd "C:\\Users\\g.wood\\Documents\\Python\\Activity134"')
+get_ipython().magic(u'cd "/\\\\bssd-stu-fs02\\Canopy\\App\\appdata"')
+get_ipython().magic(u'cd "/\\\\bssd-stu-fs02\\Canopy\\App\\appdata"')
+get_ipython().magic(u'logstart - ort billywood134.log append')
+get_ipython().magic(u'logstop')

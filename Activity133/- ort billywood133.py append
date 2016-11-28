@@ -1,0 +1,29 @@
+# IPython log file
+
+get_ipython().magic(u'cd "C:\\Users\\g.wood\\Documents\\Python\\Activity133"')
+get_ipython().magic(u'cd "C:\\Users\\g.wood\\Documents\\Python\\Activity133"')
+get_ipython().magic(u'logstart - ort billywood133.py append')
+x, y = (90, 115)
+x, y = (90, 115)
+get_ipython().magic(u'run C:/Users/g.wood/Documents/Python/Activity133/billywood133.py')
+#6 Assignment
+
+age_limit_output(10)
+age_limit_output(16)
+report_grade(79)
+get_ipython().magic(u'run C:/Users/g.wood/Documents/Python/Activity133/billywood133.py')
+report_grade(79)
+get_ipython().magic(u'run C:/Users/g.wood/Documents/Python/Activity133/billywood133.py')
+get_ipython().magic(u'run C:/Users/g.wood/Documents/Python/Activity133/billywood133.py')
+report_grade(79)
+report_grade(85)
+'t' in 'string' # includes lowercase t character
+'T' in 'string' # case matters
+3 in [1,2,3] # this list contains the int 3
+'3' in [1,2,3] # '3' is a string, different than 3
+secret = ['red','red','yellow','yellow','black']
+hint('red', secret)
+get_ipython().magic(u'run C:/Users/g.wood/Documents/Python/Activity133/billywood133.py')
+secret = ['red','red','yellow','yellow','black']
+hint('red', secret)
+hint('green', secret)

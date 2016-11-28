@@ -1,0 +1,254 @@
+%logstart -ort billywood136.log append
+%cd "C:\Users\g.wood\Documents\Python\Activity136"
+# Billy Wood 1.3.6 IPython log
+%logstart -ort billywood136.log append
+%logstop
+# Mon, 14 Nov 2016 12:48:30
+# Billy Wood 1.3.6 IPython log
+
+# Mon, 14 Nov 2016 12:49:34
+some_values[0]
+# Mon, 14 Nov 2016 12:50:09
+# 7 Tuples
+
+# Mon, 14 Nov 2016 12:50:28
+some_values = ('a', 'b', 3)
+# Mon, 14 Nov 2016 12:50:36
+some_values
+#[Out]# ('a', 'b', 3)
+# Mon, 14 Nov 2016 12:50:51
+some_values[0]
+#[Out]# 'a'
+# Mon, 14 Nov 2016 12:51:00
+some_values[1]
+#[Out]# 'b'
+# Mon, 14 Nov 2016 12:51:49
+some_values[2]
+#[Out]# 3
+# Mon, 14 Nov 2016 12:52:26
+#7a. The output is just giving which chracter is associated witht the number
+
+# Mon, 14 Nov 2016 12:52:57
+#7a. The output is just giving the character that is associated with the number
+
+# Mon, 14 Nov 2016 12:53:15
+some_values{0:2}
+# Mon, 14 Nov 2016 12:53:28
+some_values[0:2]
+#[Out]# ('a', 'b')
+# Mon, 14 Nov 2016 13:02:59
+# 7b. It gave us a and b because they are between 0 and 2.
+
+# Mon, 14 Nov 2016 13:03:14
+some_values[2]= '3'
+# Mon, 14 Nov 2016 13:03:31
+a = 10
+# Mon, 14 Nov 2016 13:03:44
+b = (9, a 11)
+# Mon, 14 Nov 2016 13:04:11
+b = (9, a, 11) 
+# Mon, 14 Nov 2016 13:04:14
+b
+#[Out]# (9, 10, 11)
+# Mon, 14 Nov 2016 13:04:20
+a = 15
+# Mon, 14 Nov 2016 13:04:20
+a
+#[Out]# 15
+# Mon, 14 Nov 2016 13:04:22
+b
+#[Out]# (9, 10, 11)
+# Mon, 14 Nov 2016 13:04:35
+b[1] == 10
+#[Out]# True
+# Mon, 14 Nov 2016 13:06:12
+#8b. It's true because the chracter associated with 1 is 10.
+
+# Mon, 14 Nov 2016 13:06:26
+b = (9, a , 11)
+# Mon, 14 Nov 2016 13:06:38
+b[1]
+#[Out]# 15
+# Mon, 14 Nov 2016 13:07:16
+#8a. It's true because the chracter associated with 1 is 10.
+
+# Mon, 14 Nov 2016 13:08:50
+#8b. The answer changed because we re-entered and that reset what 'a' was equal to in b = (9, a, 11)
+
+# Mon, 14 Nov 2016 13:09:13
+values = ['a', 'b', 3]
+# Mon, 14 Nov 2016 13:09:18
+values
+#[Out]# ['a', 'b', 3]
+# Mon, 14 Nov 2016 13:09:30
+values[1]
+#[Out]# 'b'
+# Mon, 14 Nov 2016 13:09:42
+values[1:]
+#[Out]# ['b', 3]
+# Mon, 14 Nov 2016 13:13:13
+#9. The value 1: gives you 'b' because its associated to 1 in the brackets. 
+
+# Mon, 14 Nov 2016 13:13:34
+values[2] == 3
+#[Out]# True
+# Mon, 14 Nov 2016 13:13:41
+values[2] + 5
+#[Out]# 8
+# Mon, 14 Nov 2016 13:13:53
+values[2]
+#[Out]# 3
+# Mon, 14 Nov 2016 13:14:04
+values[2] = '3'
+# Mon, 14 Nov 2016 13:14:13
+values[2] = '3'
+# Mon, 14 Nov 2016 13:14:22
+c
+# Mon, 14 Nov 2016 13:15:35
+values[2] == 3
+#[Out]# False
+# Mon, 14 Nov 2016 13:17:19
+#10aletter. values[2] is not == to 3 because values[2] is == to '3' which is a STRING!
+
+# Mon, 14 Nov 2016 13:18:04
+values = values + [4, 5]
+# Mon, 14 Nov 2016 13:18:12
+values
+#[Out]# ['a', 'b', '3', 4, 5]
+# Mon, 14 Nov 2016 13:19:35
+11b. Because it combined the old values with [4,5] so it gave us both of the answer to the values
+# Mon, 14 Nov 2016 13:19:58
+#11b. Because it combined the old values with [4,5] so it gave us both of the answer to the values
+
+# Mon, 14 Nov 2016 13:20:01
+%logstop
+%logstart -ort billywood136.log appendd
+%logstart -ort billywood136.log append
+values.append([6, 7])
+%cd "C:\Users\g.wood\Documents\Python\Activity136"
+values.append([6, 7])
+values.append([6, 7])
+%logstop
+%logstart -ort billywood136.log appendd
+# Tue, 15 Nov 2016 12:38:37
+values.append([6, 7])
+# Tue, 15 Nov 2016 12:39:09
+values = ['a', 'b', 3]
+# Tue, 15 Nov 2016 12:39:11
+values
+#[Out]# ['a', 'b', 3]
+# Tue, 15 Nov 2016 12:39:21
+values[1]
+#[Out]# 'b'
+# Tue, 15 Nov 2016 12:39:30
+values[1:]
+#[Out]# ['b', 3]
+# Tue, 15 Nov 2016 12:39:45
+values[2] == 3
+#[Out]# True
+# Tue, 15 Nov 2016 12:39:51
+values[2] + 5
+#[Out]# 8
+# Tue, 15 Nov 2016 12:39:58
+values[2]
+#[Out]# 3
+# Tue, 15 Nov 2016 12:40:12
+values[2] = '3'
+# Tue, 15 Nov 2016 12:40:21
+values[2] == 3
+#[Out]# False
+# Tue, 15 Nov 2016 12:40:30
+values = values + [4, 5]
+# Tue, 15 Nov 2016 12:40:42
+values
+#[Out]# ['a', 'b', '3', 4, 5]
+# Tue, 15 Nov 2016 12:40:44
+values.append([6, 7])
+# Tue, 15 Nov 2016 12:40:49
+values
+#[Out]# ['a', 'b', '3', 4, 5, [6, 7]]
+# Tue, 15 Nov 2016 12:40:58
+values[5]
+#[Out]# [6, 7]
+# Tue, 15 Nov 2016 12:41:04
+values.append(8)
+# Tue, 15 Nov 2016 12:41:18
+values
+#[Out]# ['a', 'b', '3', 4, 5, [6, 7], 8]
+# Tue, 15 Nov 2016 12:48:48
+#11b. Append is adding on values at the end of the line. 
+
+# Tue, 15 Nov 2016 12:52:14
+#12. The method remove(x) removes the first value from the list and if there is an error then there is no item
+
+# Tue, 15 Nov 2016 12:52:20
+values = values + 9
+# Tue, 15 Nov 2016 12:53:54
+#13. this does not work because it can't add an integer to the list 
+
+# Tue, 15 Nov 2016 12:54:09
+values += [9,10]
+# Tue, 15 Nov 2016 12:54:12
+values
+#[Out]# ['a', 'b', '3', 4, 5, [6, 7], 8, 9, 10]
+# Tue, 15 Nov 2016 12:54:21
+x = 6
+# Tue, 15 Nov 2016 12:54:29
+x *= 3
+# Tue, 15 Nov 2016 12:54:31
+x
+#[Out]# 18
+# Tue, 15 Nov 2016 12:56:01
+#14. because the *= multiplies 6 times 3 and then makes 18.
+
+# Tue, 15 Nov 2016 12:59:12
+import random
+# Tue, 15 Nov 2016 13:00:05
+random.choice(values)
+#[Out]# [6, 7]
+# Tue, 15 Nov 2016 13:00:29
+random.randint(5,8)
+#[Out]# 5
+# Tue, 15 Nov 2016 13:00:38
+random.uniform(5,8)
+#[Out]# 6.868231291995472
+# Tue, 15 Nov 2016 13:05:10
+%run C:/Users/g.wood/Documents/Python/Activity136/billywood136.py# Tue, 15 Nov 2016 13:05:24
+roll_two_dice()
+# Tue, 15 Nov 2016 13:05:35
+roll_two_dice()
+# Tue, 15 Nov 2016 13:05:48
+roll_two_dice()
+# Tue, 15 Nov 2016 13:05:49
+roll_two_dice()
+# Tue, 15 Nov 2016 13:05:50
+roll_two_dice()
+# Tue, 15 Nov 2016 13:05:59
+roll_two_dice()
+# Tue, 15 Nov 2016 13:06:00
+roll_two_dice()
+# Tue, 15 Nov 2016 13:06:01
+roll_two_dice()
+# Tue, 15 Nov 2016 13:06:02
+roll_two_dice()
+# Tue, 15 Nov 2016 13:06:02
+roll_two_dice()
+# Tue, 15 Nov 2016 13:06:02
+roll_two_dice()
+# Tue, 15 Nov 2016 13:06:03
+roll_two_dice()
+# Tue, 15 Nov 2016 13:06:03
+roll_two_dice()
+# Tue, 15 Nov 2016 13:06:04
+roll_two_dice()
+# Tue, 15 Nov 2016 13:06:04
+roll_two_dice()
+# Tue, 15 Nov 2016 13:06:05
+roll_two_dice()
+# Tue, 15 Nov 2016 13:06:05
+roll_two_dice()
+# Tue, 15 Nov 2016 13:19:06
+%run C:/Users/g.wood/Documents/Python/Activity136/billywood136.py# Tue, 15 Nov 2016 13:19:18
+guess_letter()
+# Tue, 15 Nov 2016 13:19:28
+%logstop

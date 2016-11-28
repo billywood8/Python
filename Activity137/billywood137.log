@@ -1,0 +1,93 @@
+%cd "/\\bssd-stu-fs02\Canopy\App\appdata"
+%cd "/\\bssd-stu-fs02\Canopy\App\appdata"
+%cd "/\\bssd-stu-fs02\Canopy\App\appdata"
+%logstart -ort billywood137.log append
+%cd "C:\Users\g.wood\Documents\Python\Activity137"
+%logstart -ort billywood137.log append
+%logstop
+# Wed, 16 Nov 2016 12:50:14
+numbers = [1, 2, 3, 4]
+# Wed, 16 Nov 2016 12:50:58
+# Billy Wood 1.3.7 IPython log 
+
+# Wed, 16 Nov 2016 12:51:01
+numbers = [1, 2, 3, 4]
+# Wed, 16 Nov 2016 12:52:03
+for item in numbers:
+    print(item**2)
+    
+# Wed, 16 Nov 2016 12:52:48
+help(range)
+# Wed, 16 Nov 2016 12:53:44
+range(4)
+#[Out]# [0, 1, 2, 3]
+# Wed, 16 Nov 2016 12:54:16
+range(20,12,-3)
+#[Out]# [20, 17, 14]
+# Wed, 16 Nov 2016 12:54:33
+range(5,19,2)
+#[Out]# [5, 7, 9, 11, 13, 15, 17]
+# Wed, 16 Nov 2016 12:57:22
+%cd "C:\Users\g.wood\Documents\Python\Activity136"# Wed, 16 Nov 2016 12:57:38
+%cd "C:\Users\g.wood\Documents\Python\Activity137"# Wed, 16 Nov 2016 12:57:39
+%cd "C:\Users\g.wood\Documents\Python\Activity136"# Wed, 16 Nov 2016 12:57:49
+%cd "C:\Users\g.wood\Documents\Python\Activity137"# Wed, 16 Nov 2016 12:58:06
+%logstop
+%cd "C:\Users\g.wood\Documents\Python\Activity137"
+%cd "C:\Users\g.wood\Documents\Python\Activity137"
+# Fri, 18 Nov 2016 12:46:26
+%run C:/Users/g.wood/Documents/Python/Activity137/billywood137.py# Fri, 18 Nov 2016 12:46:35
+dice(5)
+# Fri, 18 Nov 2016 13:19:13
+%logstop
+%cd "C:\Users\g.wood\Documents\Python\Activity137"
+%cd "C:\Users\g.wood\Documents\Python\Activity137"
+%cd "C:\Users\g.wood\Documents\Python\Activity137"
+%cd "C:\Users\g.wood\Documents\Python\Activity137"
+%cd "C:\Users\g.wood\Documents\Python\Activity137"
+%cd "C:\Users\g.wood\Documents\Python\Activity137"
+%cd "C:\Users\g.wood\Documents\Python\Activity137"
+%cd "C:\Users\g.wood\Documents\Python\Activity137"
+%cd "C:\Users\g.wood\Documents\Python\Activity137"
+# Mon, 21 Nov 2016 13:00:51
+%run C:/Users/g.wood/Documents/Python/Activity137/billywood137.py# Mon, 21 Nov 2016 13:01:13
+roll_hundred_pair()
+# Mon, 21 Nov 2016 13:01:39
+roll_hundred_pair()
+# Mon, 21 Nov 2016 13:01:57
+%run C:/Users/g.wood/Documents/Python/Activity137/billywood137.py# Mon, 21 Nov 2016 13:02:03
+roll_hundred_pair()
+# Mon, 21 Nov 2016 13:02:13
+roll_hundred_pair()
+# Mon, 21 Nov 2016 13:02:40
+%run C:/Users/g.wood/Documents/Python/Activity137/billywood137.py# Mon, 21 Nov 2016 13:02:42
+roll_hundred_pair()
+# Mon, 21 Nov 2016 13:03:18
+roll_hundred_pair()
+# Mon, 21 Nov 2016 13:07:11
+%run C:/Users/g.wood/Documents/Python/Activity137/billywood137.py# Mon, 21 Nov 2016 13:07:57
+%run C:/Users/g.wood/Documents/Python/Activity137/billywood137.py# Mon, 21 Nov 2016 13:08:04
+dice(5)
+#[Out]# 'Roll was24'
+# Mon, 21 Nov 2016 13:08:19
+%run C:/Users/g.wood/Documents/Python/Activity137/billywood137.py# Mon, 21 Nov 2016 13:08:30
+dice(5)
+#[Out]# 'Roll was 11'
+# Mon, 21 Nov 2016 13:09:06
+dice(5)
+#[Out]# 'Roll was 24'
+# Mon, 21 Nov 2016 13:09:14
+dice(1)
+#[Out]# 'Roll was 1'
+# Mon, 21 Nov 2016 13:09:24
+dice(20000)
+#[Out]# 'Roll was 70413'
+# Mon, 21 Nov 2016 13:09:41
+dice(20000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
+# Mon, 21 Nov 2016 13:10:06
+dice(200000000000000000000)
+# Mon, 21 Nov 2016 13:10:13
+dice(200000000)
+#[Out]# 'Roll was 699987593'
+# Mon, 21 Nov 2016 13:18:24
+%logstop

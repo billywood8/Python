@@ -1,0 +1,33 @@
+%cd "C:\Users\g.wood\Documents\Python\Activity135"
+# Fri, 11 Nov 2016 12:46:37
+%run C:/Users/g.wood/Documents/Python/Activity135/billywood135.py# Fri, 11 Nov 2016 12:48:41
+%run C:/Users/g.wood/Documents/Python/Activity135/billywood135.py# Fri, 11 Nov 2016 12:50:35
+%run C:/Users/g.wood/Documents/Python/Activity135/billywood135.py# Fri, 11 Nov 2016 12:52:19
+%run C:/Users/g.wood/Documents/Python/Activity135/billywood135.py# Fri, 11 Nov 2016 12:52:51
+how_eligible('This? "Yes." No, not really!')
+# Fri, 11 Nov 2016 12:53:19
+how eligible('Really, not a compound sentence.')
+# Fri, 11 Nov 2016 12:53:36
+how_eligible('Really, not a compound sentence.')
+# Fri, 11 Nov 2016 12:55:32
+#Conclusion
+#1. 41 Characters. The index for the last character of the sentence is 40.
+
+# Fri, 11 Nov 2016 12:55:41
+a = 'one string''
+# Fri, 11 Nov 2016 12:55:52
+a = 'one string'
+# Fri, 11 Nov 2016 12:56:05
+b = 'another'
+# Fri, 11 Nov 2016 12:56:26
+c = a [:3] + ' and ' + b
+# Fri, 11 Nov 2016 12:56:45
+print(c[6:10])
+# Fri, 11 Nov 2016 12:59:17
+print(c)
+# Fri, 11 Nov 2016 13:04:38
+#Conclusion
+#2. When the following code is executed, it is printing the characters that are between 6 and 10 of the variable c which is printing out "one and another" so you end up with "d an."
+
+# Fri, 11 Nov 2016 13:07:41
+%logstop

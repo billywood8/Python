@@ -1,0 +1,169 @@
+%cd "C:\Users\g.wood\Documents\Python\Activity134"
+%cd "/\\bssd-stu-fs02\Canopy\App\appdata"
+%cd "/\\bssd-stu-fs02\Canopy\App\appdata"
+%logstart - ort billywood134.log append
+%logstop
+# Wed, 02 Nov 2016 12:47:41
+food_id('apple')
+# Wed, 02 Nov 2016 12:48:53
+%run "c:\users\gfeee~1.woo\appdata\local\temp\tmpd5irlk.py"# Wed, 02 Nov 2016 12:49:02
+food_id('apple')
+#[Out]# 'NOT Citrus, Fruit'
+# Wed, 02 Nov 2016 12:54:40
+#2 Assignment
+
+# Wed, 02 Nov 2016 12:55:08
+#2 Assignment
+#It returned value from liine 17
+
+# Wed, 02 Nov 2016 12:56:54
+%run "c:\users\gfeee~1.woo\appdata\local\temp\tmpikfjzy.py"# Wed, 02 Nov 2016 12:57:13
+food_id_test()
+food_id passed all tests!
+# Wed, 02 Nov 2016 12:57:41
+food_id_test()
+#[Out]# True
+%cd "C:\Users\g.wood\Documents\Python"
+%cd "C:\Users\g.wood\Documents\Python\Activity134"
+# Thu, 03 Nov 2016 13:00:15
+%run C:/Users/g.wood/Documents/Python/Activity134/billywood134.py# Thu, 03 Nov 2016 13:00:19
+f(12)
+# Thu, 03 Nov 2016 13:00:26
+%run C:/Users/g.wood/Documents/Python/Activity134/billywood134.py# Thu, 03 Nov 2016 13:00:47
+f(12)
+# Thu, 03 Nov 2016 13:00:52
+%run C:/Users/g.wood/Documents/Python/Activity134/billywood134.py# Thu, 03 Nov 2016 13:00:55
+f(12)
+# Thu, 03 Nov 2016 13:02:10
+%run C:/Users/g.wood/Documents/Python/Activity134/billywood134.py# Thu, 03 Nov 2016 13:02:27
+f(12)
+# Thu, 03 Nov 2016 13:06:12
+a = raw_input('Give me a number between 5 and 6: ')
+# Thu, 03 Nov 2016 13:06:52
+a
+#[Out]# u''
+# Thu, 03 Nov 2016 13:17:15
+%logstop
+%cd "C:\Users\g.wood\Documents\Python"
+%cd "C:\Users\g.wood\Documents\Python\Activity134"
+a
+a = raw_input('Give me a number between 5 and 6: ')
+a
+#[Out]# u'5.5'
+type(a)
+#[Out]# <type 'unicode'>
+int(a)
+float(a)
+#[Out]# 5.5
+int(float(a))
+#[Out]# 5
+b = 6
+a + b
+a + str(b)
+#[Out]# u'5.56'
+float(a) + b
+#[Out]# 11.5
+#6a Assignment
+"+ as concentration only works with strings"
+#[Out]# '+ as concentration only works with strings'
+%cd "C:\Users\g.wood\Documents\Python"
+%cd "C:\Users\g.wood\Documents\Python\Activity134"
+#6b Assignment
+# Fri, 04 Nov 2016 12:51:53
+a = raw_input('Give me a number between 5 and 6: ')
+# Fri, 04 Nov 2016 12:51:58
+a
+#[Out]# u'5.5'
+# Fri, 04 Nov 2016 12:52:06
+type(a)
+#[Out]# unicode
+# Fri, 04 Nov 2016 12:52:26
+int(a)
+# Fri, 04 Nov 2016 12:52:50
+float(a)
+#[Out]# 5.5
+# Fri, 04 Nov 2016 12:53:04
+int(float(a))
+#[Out]# 5
+# Fri, 04 Nov 2016 12:53:20
+b = 6
+# Fri, 04 Nov 2016 12:53:25
+a + b
+# Fri, 04 Nov 2016 12:53:41
+a + str(b)
+#[Out]# u'5.56'
+# Fri, 04 Nov 2016 12:53:56
+float(a) + b
+#[Out]# 11.5
+# Fri, 04 Nov 2016 12:54:49
+#6a Assignment
+"+ as concentration only works with strings"
+#[Out]# '+ as concentration only works with strings'
+# Fri, 04 Nov 2016 12:57:00
+#6b Assignment
+"The float function can't complete the problem/answer
+# Fri, 04 Nov 2016 12:57:26
+#6b Assignment
+"The float function can't complete the problem/answer"
+#[Out]# "The float function can't complete the problem/answer"
+# Fri, 04 Nov 2016 13:03:37
+guess_once()
+# Fri, 04 Nov 2016 13:03:40
+%run C:/Users/g.wood/Documents/Python/Activity134/billywood134.py# Fri, 04 Nov 2016 13:03:43
+guess_once()
+# Fri, 04 Nov 2016 13:03:55
+%run C:/Users/g.wood/Documents/Python/Activity134/billywood134.py# Fri, 04 Nov 2016 13:04:04
+guess_once()
+# Fri, 04 Nov 2016 13:08:09
+%run C:/Users/g.wood/Documents/Python/Activity134/billywood134.py# Fri, 04 Nov 2016 13:08:21
+guess_once()
+# Fri, 04 Nov 2016 13:09:01
+guess_once()
+# Fri, 04 Nov 2016 13:09:23
+guess_once()
+# Fri, 04 Nov 2016 13:14:22
+guess_once()
+# Fri, 04 Nov 2016 13:14:30
+guess_once()
+# Fri, 04 Nov 2016 13:14:35
+guess_once()
+# Fri, 04 Nov 2016 13:14:47
+guess_once()
+# Fri, 04 Nov 2016 13:14:52
+guess_once()
+# Fri, 04 Nov 2016 13:15:05
+guess_once()
+# Fri, 04 Nov 2016 13:15:09
+guess_once()
+# Fri, 04 Nov 2016 13:15:12
+guess_once()
+# Fri, 04 Nov 2016 13:15:24
+guess_once()
+# Fri, 04 Nov 2016 13:15:34
+guess_once()
+# Fri, 04 Nov 2016 13:15:40
+guess_once()
+# Fri, 04 Nov 2016 13:15:43
+guess_once()
+# Fri, 04 Nov 2016 13:15:45
+guess_once()
+# Fri, 04 Nov 2016 13:15:49
+guess_once()
+# Fri, 04 Nov 2016 13:18:19
+%logstop
+%cd "C:\Users\g.wood\Documents\Python\Activity134"
+# Mon, 07 Nov 2016 12:47:58
+quiz_decimal(4, 4.1)
+# Mon, 07 Nov 2016 13:02:47
+#Conclusion1 
+"If structures are what lead the glass box testing. If the "if" is wrong it will lead the glass box to another glass box"
+# Mon, 07 Nov 2016 13:04:17
+#Conclusion1
+"If structures are what lead the glass box testing. If the 'if' is wrong it will lead the glass box to another glass box"
+#[Out]# "If structures are what lead the glass box testing. If the 'if' is wrong it will lead the glass box to another glass box"
+# Mon, 07 Nov 2016 13:12:45
+#Conclusion2
+"a collection of test cases that are used to test a software program to show that it has some specified behaviors. programmers write these before so they wont encounter unknown problems in the program."
+#[Out]# 'a collection of test cases that are used to test a software program to show that it has some specified behaviors. programmers write these before so they wont encounter unknown problems in the program.'
+# Mon, 07 Nov 2016 13:14:12
+%logstop
