@@ -1,0 +1,25 @@
+%cd "C:\Users\g.wood\Documents\Python\Activity138"
+# Mon, 28 Nov 2016 12:59:20
+validate()
+# Mon, 28 Nov 2016 13:00:07
+validate()
+# Mon, 28 Nov 2016 13:00:13
+%run "c:\users\gfeee~1.woo\appdata\local\temp\tmpp8_xva.py"# Mon, 28 Nov 2016 13:00:20
+validate()
+# Mon, 28 Nov 2016 13:05:46
+#5. This line is needed because it can't run through the program unless an incorrect answer is givin.
+
+# Mon, 28 Nov 2016 13:08:23
+guess_winner(('Amy','Bill','Cathy','Dale'))
+#[Out]# 4
+# Mon, 28 Nov 2016 13:08:55
+guess_winner(('Amy','Bill','Cathy','Dale'))
+#[Out]# 5
+# Mon, 28 Nov 2016 13:09:34
+guess_winner(('Amy','Bill','Cathy','Dale'))
+#[Out]# 4
+# Mon, 28 Nov 2016 13:09:49
+guess_winner(('Amy','Bill','Cathy','Dale'))
+#[Out]# 1
+# Mon, 28 Nov 2016 13:15:52
+%logstop
