@@ -23,3 +23,13 @@ guess_winner(('Amy','Bill','Cathy','Dale'))
 #[Out]# 1
 # Mon, 28 Nov 2016 13:15:52
 %logstop
+%cd "C:\Users\g.wood\Documents\Python\Activity138"
+# Tue, 29 Nov 2016 12:43:38
+guess_winner(('Amy','Bill','Cathy','Dale'))
+# Tue, 29 Nov 2016 12:45:13
+%run C:/Users/g.wood/Documents/Python/Activity138/billywood138.py# Tue, 29 Nov 2016 12:45:17
+guess_winner(('Amy','Bill','Cathy','Dale'))
+#[Out]# 2
+# Tue, 29 Nov 2016 12:46:48
+#7. The user may have to guess 100 times. 
+
