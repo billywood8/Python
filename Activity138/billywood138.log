@@ -33,3 +33,30 @@ guess_winner(('Amy','Bill','Cathy','Dale'))
 # Tue, 29 Nov 2016 12:46:48
 #7. The user may have to guess 100 times. 
 
+# Tue, 29 Nov 2016 13:18:35
+%logstop
+%cd "C:\Users\g.wood\Documents\Python\Activity138"
+# Wed, 30 Nov 2016 13:15:23
+%run C:/Users/g.wood/Documents/Python/Activity138/billywood138.py# Wed, 30 Nov 2016 13:16:12
+%run C:/Users/g.wood/Documents/Python/Activity138/billywood138.py# Wed, 30 Nov 2016 13:16:39
+%run C:/Users/g.wood/Documents/Python/Activity138/billywood138.py# Wed, 30 Nov 2016 13:16:50
+goguess()
+# Wed, 30 Nov 2016 13:17:43
+%run C:/Users/g.wood/Documents/Python/Activity138/billywood138.py# Wed, 30 Nov 2016 13:17:46
+goguess()
+# Wed, 30 Nov 2016 13:18:24
+%run C:/Users/g.wood/Documents/Python/Activity138/billywood138.py# Wed, 30 Nov 2016 13:18:28
+%run C:/Users/g.wood/Documents/Python/Activity138/billywood138.py# Wed, 30 Nov 2016 13:18:31
+goguess()
+# Wed, 30 Nov 2016 13:18:53
+%run C:/Users/g.wood/Documents/Python/Activity138/billywood138.py# Wed, 30 Nov 2016 13:18:55
+goguess()
+# Wed, 30 Nov 2016 13:25:30
+#9. You will need to make at most, 600 guesses in order to guarantee that you have the right answer. Since the unknown number is any number between 1-600, it can be any of the numbers in between. 
+
+# Wed, 30 Nov 2016 13:28:29
+#Conclucsion
+#1. The difference is for loops are not infinite and while loops are infinite.
+
+# Wed, 30 Nov 2016 13:28:32
+%logstop
